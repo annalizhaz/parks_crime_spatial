@@ -1,0 +1,26 @@
+# jupyter notebook checkpoints and stuff #
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
+
+# mac system files #
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+#data files too large#
+
+Data/
+k4_clusters_close/
+k4_clusters/
+DistToPark_Upper50/
+ComArea/
+cc4_clusters/
+cc4_clusters_close/
